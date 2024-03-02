@@ -1,0 +1,30 @@
+﻿  grid.cpp
+C:\Users\acorb\Documents\GitHub\raylibCppCollisions\grid.cpp(66,29): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\acorb\Documents\GitHub\raylibCppCollisions\grid.cpp(66,29): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\acorb\Documents\GitHub\raylibCppCollisions\grid.cpp(66,53): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\acorb\Documents\GitHub\raylibCppCollisions\grid.cpp(66,53): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\acorb\Documents\GitHub\raylibCppCollisions\grid.cpp(67,32): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\acorb\Documents\GitHub\raylibCppCollisions\grid.cpp(67,32): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\acorb\Documents\GitHub\raylibCppCollisions\grid.cpp(67,57): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\acorb\Documents\GitHub\raylibCppCollisions\grid.cpp(67,57): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\acorb\Documents\GitHub\raylibCppCollisions\grid.cpp(69,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\acorb\Documents\GitHub\raylibCppCollisions\grid.cpp(69,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\acorb\Documents\GitHub\raylibCppCollisions\grid.cpp(69,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\acorb\Documents\GitHub\raylibCppCollisions\grid.cpp(69,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\acorb\Documents\GitHub\raylibCppCollisions\grid.cpp(90,60): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\acorb\Documents\GitHub\raylibCppCollisions\grid.cpp(90,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\acorb\Documents\GitHub\raylibCppCollisions\grid.cpp(96,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\acorb\Documents\GitHub\raylibCppCollisions\grid.cpp(97,23): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\acorb\Documents\GitHub\raylibCppCollisions\grid.cpp(98,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\acorb\Documents\GitHub\raylibCppCollisions\grid.cpp(98,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\acorb\Documents\GitHub\raylibCppCollisions\grid.cpp(105,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\acorb\Documents\GitHub\raylibCppCollisions\grid.cpp(106,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\acorb\Documents\GitHub\raylibCppCollisions\grid.cpp(107,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\acorb\Documents\GitHub\raylibCppCollisions\grid.cpp(107,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\acorb\Documents\GitHub\raylibCppCollisions\grid.cpp(118,34): warning C4305: 'initializing': truncation from 'int' to 'float'
+C:\Users\acorb\Documents\GitHub\raylibCppCollisions\grid.cpp(120,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\acorb\Documents\GitHub\raylibCppCollisions\grid.cpp(152,59): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\acorb\Documents\GitHub\raylibCppCollisions\grid.cpp(156,4): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  raylibCppThing.cpp
+  Generating Code...
+  raylibCppThing.vcxproj -> C:\Users\acorb\Documents\GitHub\raylibCppCollisions\x64\Debug\raylibCppThing.exe
