@@ -4,3 +4,6 @@ C:\Users\acorb\Documents\GitHub\raylibCppThing\x64\Debug\raylib.dll
 C:\Users\acorb\Documents\GitHub\raylibCppCollisions\x64\Debug\raylibCppThing.vcxproj.CopyComplete
 C:\Users\acorb\Documents\GitHub\raylibCppCollisions\x64\Debug\raylibCppThing.exe
 C:\Users\acorb\Documents\GitHub\raylibCppCollisions\x64\Debug\raylib.dll
+C:\Users\acorb\Documents\GitHub\raylibCppThing\actuallyResearched\x64\Debug\raylibCppThing.exe
+C:\Users\acorb\Documents\GitHub\raylibCppThing\actuallyResearched\x64\Debug\raylibCppThing.vcxproj.CopyComplete
+C:\Users\acorb\Documents\GitHub\raylibCppThing\actuallyResearched\x64\Debug\raylib.dll

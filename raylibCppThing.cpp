@@ -23,7 +23,7 @@ int main()
     const int screenHeight = 1020;
 
     InitWindow(screenWidth, screenHeight, "raylib window title ig fuck you");
-    SetTargetFPS(60000);
+    SetTargetFPS(60);
 
     Font font = LoadFontEx("font/arial.ttf", 64, 0, 0);
 
@@ -40,6 +40,10 @@ int main()
         char successStr[20];
         sprintf_s(successStr, "successes: %d", game.grid.successCount);
         DrawTextEx(font, successStr, { 10, 10 }, 38, 2, BLACK);
+
+        char failStr[20];
+        sprintf_s(failStr, "fails: %d", game.grid.failCount);
+        DrawTextEx(font, failStr, { 10, 50 }, 38, 2, BLACK);
 
         EndDrawing();
     }
